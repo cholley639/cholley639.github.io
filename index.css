@@ -30,15 +30,15 @@ html {
 #pic {
  	margin: 0 auto;
  	position: fixed;
- 	right:5px;
- 	bottom:5px;
- 	animation-name:img-ani;
+ 	right:20px;
+ 	bottom:20px;
  	animation-delay:3s;
+ 	animation-name:img-ani;
  	animation-duration: 3s;   
  	animation-timing-function: ease-in;
 }             
 #pic img {
-	max-width: 300px;
+	max-width: 500px;
   	height: auto;
   	width: auto\9; /* ie8 */
 
