@@ -28,19 +28,21 @@ html {
 }
 
 #pic {
-  width: 30px;
-  height: 30px;
-  margin: 0 auto;
-  position: fixed;
-  right:5px;
-  bottom:5px;
-  animation-name:img-ani;
-  /* add a delay */
-  animation-duration: 6s;   
-  animation-timing-function: ease-in;
+	max-width: 100%;
+  	height: auto;
+  	width: auto\9; /* ie8 */
+
+ 	margin: 0 auto;
+ 	position: fixed;
+ 	right:5px;
+ 	bottom:5px;
+ 	animation-name:img-ani;
+ 	/* add a delay */
+ 	animation-duration: 6s;   
+ 	animation-timing-function: ease-in;
 }             
 
 @keyframes img-ani {
-  from{opacity:0;}
-  to{opacity: 1;}
+ 	from{opacity:0;}
+ 	to{opacity: 1;}
 }
