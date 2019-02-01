@@ -27,10 +27,11 @@ html {
 	top:280px;
 }
 
- 	.js-loading *,
-	.js-loading *:before,
-	.js-loading *:after {
-		animation-play-state: paused !important;
+/* Prevents image from displaying while loading */
+.js-loading *,
+.js-loading *:before,
+.js-loading *:after {
+	animation-play-state: paused !important;
 	}
 
 
@@ -38,13 +39,12 @@ html {
  	margin: 0 auto;
  	position: fixed;
  	right:20px;
- 	bottom:20px;
+ 	top:20px;
 
  	/* Animating the picture to fade in */
  	animation-name:img-ani;
  	animation-duration: 3s;   
  	animation-timing-function: ease-in;
- 	/*animation-play-state: paused !important; */
 } 
 
 
