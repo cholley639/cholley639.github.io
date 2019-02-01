@@ -34,6 +34,7 @@ html {
  	bottom:20px;
 
  	/* Animating the picture to fade in */
+ 	opacity: 0;
  	animation-delay:3s;
  	animation-name:img-ani;
  	animation-duration: 3s;   
