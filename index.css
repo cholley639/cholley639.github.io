@@ -10,7 +10,7 @@
 */
 
 html { 
-	background: url(2Trees.jpeg);
+	background: url(2Trees.jpeg) no-repeat center center fixed;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
