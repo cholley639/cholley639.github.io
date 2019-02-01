@@ -43,7 +43,7 @@ html {
 
 /* Adjusting size of img */             
 #pic img {
-	max-width: 500px;
+	max-width: 350px;
   	height: auto;
   	width: auto\9; /* ie8 */
 
