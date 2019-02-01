@@ -27,6 +27,11 @@ html {
 	top:280px;
 }
 
+ 	.js-loading *,
+	.js-loading *:before,
+	.js-loading *:after {
+
+
 #pic {
  	margin: 0 auto;
  	position: fixed;
@@ -37,7 +42,9 @@ html {
  	animation-name:img-ani;
  	animation-duration: 3s;   
  	animation-timing-function: ease-in;
-}     
+ 	animation-play-state: paused !important;
+} 
+
 
 /* Adjusting size of picture */        
 #pic img {
