@@ -16,4 +16,11 @@ html {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	font-family: "Baskerville";
+}
+
+#header {
+	text-align: center;
+	font-size: 24px;
+
 }
