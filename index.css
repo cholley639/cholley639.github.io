@@ -31,7 +31,11 @@ html {
   width: 30px;
   height: 30px;
   margin: 0 auto;
+  position: fixed;
+  right:5px;
+  bottom:5px;
   animation-name:img-ani;
+  /* add a delay */
   animation-duration: 6s;   
   animation-timing-function: ease-in;
 }             
