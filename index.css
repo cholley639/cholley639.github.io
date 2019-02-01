@@ -23,7 +23,7 @@ html {
 	text-align: center;
 	color: white;
 	font-size: 9px;
-	position: fixed;
+	position: relative;
 	top:280px;
 }
 
@@ -33,23 +33,24 @@ html {
  	right:20px;
  	bottom:20px;
 
- 	/* Animation info */
- 	-moz-animation: fadein 3s ease-in 7s forwards; /* Firefox */
-    -webkit-animation: fadein 3s ease-in 7s forwards; /* Safari and Chrome */
-    -o-animation: fadein 3s ease-in 7s forwards; /* Opera */
-    animation: fadein 3s ease-in 7s forwards;
+ 	/* Animating the picture to fade in */
+ 	animation-delay:3s;
  	animation-name:img-ani;
-}
+ 	animation-duration: 3s;   
+ 	animation-timing-function: ease-in;
+}     
 
-/* Adjusting size of img */             
+/* Adjusting size of picture */        
 #pic img {
 	max-width: 350px;
   	height: auto;
   	width: auto\9; /* ie8 */
 
 }
-/* Adjusting animation specifics */
+
+/* Adjusting animation */
 @keyframes img-ani {
  	from{opacity:0;}
  	to{opacity: 1;}
 }
+
