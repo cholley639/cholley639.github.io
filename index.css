@@ -71,9 +71,9 @@ html {
 }
 
 .but img {
-	max-width: 30px;
-  	height: auto;
-  	width: auto\9; /* ie8 */
+	max-height: 30px;
+  	width: auto;
+  	height: auto\9; /* ie8 */
 
 }
 
