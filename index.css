@@ -64,11 +64,9 @@ html {
 
 .but {
 	padding:1px;
-	margin-left: 50%;
-	margin-right: auto;
-	margin-top: 50%;
-	margin-bottom: auto;
- 	position: fixed;
+	margin: auto;
+ 	width: 50%;
+ 	height: 50%;
  /*	margin: 0 auto;
  	position: fixed;
  	right:
