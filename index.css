@@ -62,39 +62,25 @@ html {
  	to{opacity: 1;}
 }
 
-#email {
+.fa {
 	margin: 0 auto;
  	position: fixed;
- 	right:48%;
+ 	right:47%;
  	top:51%;
 }
 
-#email img {
+.fa img {
 	max-width: 30px;
   	height: auto;
   	width: auto\9; /* ie8 */
 
 }
 
-#email:hover {
+.fa:hover {
 	opacity: 0.7
 }
 
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-}
-
-.fa:hover {
-    opacity: 0.7;
-}
-
 .fa-linkedin {
-  background: #007bb5;
-  color: white;
+	 right:49%;
 }
 
