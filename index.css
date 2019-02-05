@@ -68,6 +68,11 @@ html {
  	position: fixed;
  	right:48%;
  	top:50%;
+
+ 	/* Animating the picture to fade in */
+ 	animation-name:img-ani;
+ 	animation-duration: 5s;   
+ 	animation-timing-function: ease-in;
 }
 
 .but img {
