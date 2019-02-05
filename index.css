@@ -82,12 +82,6 @@ html {
 
 }
 
-.but img.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto 
-}
-
 .but:hover {
 	opacity: 0.7
 }
@@ -96,3 +90,8 @@ html {
 	right:51%;
 }
 
+.but img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
