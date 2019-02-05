@@ -90,7 +90,13 @@ html {
 	right:51%;
 }
 
-.but img.displayed {
+.but-email img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.but-linkedin img.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto 
