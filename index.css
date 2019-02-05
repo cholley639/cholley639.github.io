@@ -63,7 +63,7 @@ html {
 }
 
 .but {
-	padding:10px;
+	padding:1px;
 	margin: 0 auto;
  	position: fixed;
  	right:47%;
@@ -79,5 +79,9 @@ html {
 
 .but:hover {
 	opacity: 0.7
+}
+
+.but-linkedin {
+	right:50%;
 }
 
