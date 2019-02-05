@@ -64,9 +64,7 @@ html {
 
 .but {
 	padding:1px;
-	margin: 0 auto;
- 	width: 50%;
- 	height: 50%;
+	margin: 50% auto;
  /*	margin: 0 auto;
  	position: fixed;
  	right:
@@ -80,7 +78,7 @@ html {
 
 .but img {
 	max-height: 30px;
-  	/*width: auto;
+  	width: auto;
   	height: auto\9; /* ie8 */
 
 } 
