@@ -82,7 +82,7 @@ html {
 
 }
 
-but.displayed {
+.but img.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto 
