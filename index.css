@@ -91,14 +91,10 @@ html {
 }
 
 .button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
     color: black;
     padding:3px;
     background-color: black;
+    color: white;
 }
 
 a.button:hover {
