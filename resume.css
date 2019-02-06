@@ -10,6 +10,11 @@
 */
 
 html { 
-	background-color: #F0E68C;
+	background: url(gold.jpeg) no-repeat center center fixed;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 	font-family: "Montserrat";
 }
