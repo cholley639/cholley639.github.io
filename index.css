@@ -101,7 +101,7 @@ html {
     border-radius: 5px;
 
  	position: fixed;
- 	top:330px;
+ 	top:300px;
 
  	/* Animating the picture to fade in */
  	animation-name:img-ani;
@@ -119,9 +119,9 @@ html {
 }
 
 .button-r {
-	right:40px;
+	right:80px;
 }
 
 .button-b {
-	right: 20px;
+	right: 40px;
 }
