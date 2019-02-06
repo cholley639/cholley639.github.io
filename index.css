@@ -102,8 +102,7 @@ html {
 
     margin: 0 auto;
  	position: fixed;
- 	right:40px;
- 	top:350px;
+ 	top:330px;
 
  	/* Animating the picture to fade in */
  	animation-name:img-ani;
