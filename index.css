@@ -92,9 +92,9 @@ html {
 
 .button {
 	text-decoration: none;
-    color: black;
+    color: #fff;
     padding:5px 3px;
-    background-color: black;
+    border: 1px solid #fff;
     color: transparent;
     border-radius: 5px;
 }
