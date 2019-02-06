@@ -99,6 +99,16 @@ html {
     padding:3px 5px;
     border: 1px solid black;
     border-radius: 5px;
+
+    margin: 0 auto;
+ 	position: fixed;
+ 	right:40px;
+ 	top:350px;
+
+ 	/* Animating the picture to fade in */
+ 	animation-name:img-ani;
+ 	animation-duration: 5s;   
+ 	animation-timing-function: ease-in;
 }
 
 .button:hover {
