@@ -126,6 +126,9 @@ html {
 	right: 115px;
 }
 
-#monogram {
-	text-align: center;
+#monogram img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+
 }
