@@ -91,10 +91,12 @@ html {
 }
 
 .button {
+	text-decoration: none;
     color: black;
     padding:3px;
     background-color: black;
     color: white;
+    border-radius: 2px;
 }
 
 a.button:hover {
