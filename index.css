@@ -90,7 +90,7 @@ html {
 	right:51%;
 }
 
-a.button {
+.button {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
