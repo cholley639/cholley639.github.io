@@ -100,7 +100,6 @@ html {
     border: 1px solid black;
     border-radius: 5px;
 
-    margin: 0 auto;
  	position: fixed;
  	top:330px;
 
@@ -119,3 +118,10 @@ html {
   color: #000;
 }
 
+.button-r {
+	right:40px;
+}
+
+.button-b {
+	right: 20px;
+}
