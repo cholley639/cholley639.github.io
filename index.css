@@ -101,7 +101,7 @@ html {
     border-radius: 5px;
 
  	position: fixed;
- 	top:300px;
+ 	top:295px;
 
  	/* Animating the picture to fade in */
  	animation-name:img-ani;
