@@ -99,8 +99,12 @@ html {
     border-radius: 5px;
 }
 
-a.button:hover {
+.button:hover {
 	opacity: 0.7;
 }
 
+.button:active {
+  background-color: #fff;
+  color: #000;
+}
 
