@@ -91,6 +91,9 @@ html {
 }
 
 .button {
+	display: inline-block;
+  	text-align: center;
+  	outline: none;
 	text-decoration: none;
     color: #fff;
     padding:3px 5px;
