@@ -17,8 +17,13 @@ html {
 	-o-background-size: cover;
 	background-size: cover;
 	font-family: "Montserrat";
+	margin-left:20px;
 }
 
 .position {
 	font-style: italic;
+}
+
+#header {
+
 }
