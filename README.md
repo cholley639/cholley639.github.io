@@ -4,7 +4,12 @@
 ## Comp20 Assignment 1
 ## Jan 29, 2019
 
-#### Identify what aspects of the work have been correctly implemented and what have not.
+## Identify what aspects of the work have been correctly implemented and what have not.
+There is an index.html file in my UTLN homework server that redirects users from my
+ee/cs webpage to my github web page.
+My homepage has a picture, resume link, bio link, and my name (Cam).
+My resume page has a fully updated version of my most recent resume.
+
 
 
 
