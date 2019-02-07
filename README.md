@@ -14,7 +14,7 @@ My resume page has a fully updated version of my most recent resume.
 
 
 ## Time Invested
-I've probably spent a combined 30 hours on this project. I spent a lot of time
+I've probably spent a combined 20-25 hours on this project. I spent a lot of time
 trying to make the home page simple and perfect. Also getting the animation 
 right was difficult.
 
