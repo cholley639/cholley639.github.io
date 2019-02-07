@@ -18,3 +18,7 @@ html {
 	background-size: cover;
 	font-family: "Montserrat";
 }
+
+.position {
+	font-style: italic;
+}
