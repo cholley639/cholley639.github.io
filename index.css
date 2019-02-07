@@ -26,10 +26,11 @@ html {
 
 #initials {
 	font-family: "Tahu", Fallback, Comic Sans MS;
-	text-align:center;
+	color: white;
 	font-size:150px;
 	position:fixed;
 	top:40px;
+	right:46%;
 
 }
 
