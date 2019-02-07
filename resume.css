@@ -21,6 +21,8 @@ html {
 }
 
 .position {
+	position: relative;
+	bottom: 5px;
 	font-style: italic;
 }
 
