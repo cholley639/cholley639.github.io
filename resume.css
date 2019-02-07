@@ -20,6 +20,11 @@ html {
 	margin-left:20px;
 }
 
+.sqs-block {
+ 	margin-top: -5px;
+ 	margin-bottom: -5px;
+ }
+
 .position {
 	position: relative;
 	bottom: 5px;
