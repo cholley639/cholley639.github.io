@@ -15,7 +15,8 @@ html {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	font-family: Arial;
+	font-family: Montserrat;
+	font-size: 22px; 
 }
 
 body {
