@@ -21,7 +21,7 @@ html {
 }
 
 #initials {
-	font-family: "Sedgwick Ave", Fallback, Comic Sans MS;
+	font-family: "Sedgwick Ave";
 	color: white;
 	font-size:120px;
 	position:fixed;
