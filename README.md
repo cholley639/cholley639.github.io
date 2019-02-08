@@ -14,7 +14,7 @@ My resume page has a fully updated version of my most recent resume.
 
 
 ## Time Invested
-I've probably spent a combined 20-25 hours on this project. I spent a lot of time
+I've probably spent a combined 25-30 hours on this project. I spent a lot of time
 trying to make the home page simple and perfect. Also getting the animation 
 right was difficult.
 
@@ -34,6 +34,8 @@ right was difficult.
 * https://www.webfx.com/blog/web-design/ghost-buttons/
 * https://www.w3schools.com/css/css_image_transparency.asp
 * https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
+* https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp
+* https://stackoverflow.com/questions/14676613/how-to-import-google-web-font-in-css-file
 
 ### HTML
 * https://www.w3schools.com/tags/att_body_background.asp
@@ -42,3 +44,7 @@ right was difficult.
 * https://love2dev.com/blog/html-horizontal-line/
 * https://www.w3schools.com/tags/tag_hr.asp
 * https://stackoverflow.com/questions/22672368/how-to-make-a-transparent-html-button
+
+### Other
+* https://fonts.google.com/specimen/Sedgwick+Ave
+
