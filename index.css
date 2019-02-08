@@ -21,12 +21,12 @@ html {
 }
 
 #initials {
-	font-family: "Sedgwick Ave";
+	font-family: "Sedgwick Ave", cursive;
 	color: white;
 	font-size:120px;
 	position:fixed;
-	top:-80px;
-	right:43%;
+	top:-100px;
+	right:45%;
 
 }
 
